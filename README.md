@@ -10,11 +10,24 @@
   color: coral;
   background-color: black;
   margin-bottom: 0px;
+  font-size:175%;
 }
 
 #fall-list{
   background-color: coral;
-  font-size: 135%
+  font-size: 135%;
+}
+
+h2{
+  font-size:175%;
+  color: lightblue;
+  background-color: black;
+  margin-bottom: 0px;
+}
+
+#winter-list{
+  background-color: lightblue;
+  font-size: 135%;
 }
 </style>
 </head>
@@ -26,6 +39,17 @@
 <li>Antaomy</li>
 <li>Pre Calculus</li>
 <li>Digital Photography</li>
+<li>Biology</li>
+<li>Spanish 4H</li>
+<li>Study Hall</li>
+</ol>
+<h2>Winter Trimester</h2>
+<ol id="winter-list">
+<li>American Studies</li>
+<li>American Studies</li>
+<li>Software Development</li>
+<li>Pre Calculus</li>
+<li>Evolution</li>
 <li>Biology</li>
 <li>Spanish 4H</li>
 <li>Study Hall</li>
